@@ -1,0 +1,24 @@
+baseURL = "https://yuukigoodman.github.io/"
+publishDir = "docs"
+languageCode = "en-US"
+copyright = "&copy; <a href=\"https://github.com/yuukigoodman\">Yuki Tannai</a> 2018"
+title = "Web log entries"
+theme = "kiss"
+pygmentsCodeFences = true
+Paginate = 5
+canonifyurls = true
+
+[params.info]
+enableSocial = false
+homeTitle = "Web log entries"
+poweredby = false
+
+[params.opengraph.twitter]
+page = ""
+
+[params.social]
+twitter = "yuukigoodman"
+github = "yuukigoodman"
+linkedin = "tannai"
+facebook = "yuuki.tannai"
+
