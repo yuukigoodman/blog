@@ -1,4 +1,4 @@
-baseURL = "https://yuukigoodman.github.io/"
+baseURL = "https://yuukigoodman.github.io/blog"
 publishDir = "docs"
 languageCode = "en-US"
 copyright = "&copy; <a href=\"https://github.com/yuukigoodman\">Yuki Tannai</a> 2018"
