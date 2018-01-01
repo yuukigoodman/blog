@@ -22,3 +22,7 @@ github = "yuukigoodman"
 linkedin = "tannai"
 facebook = "yuuki.tannai"
 
+[blackfriday]
+hrefTargetBlank = true
+noIntraEmphasis = true
+extensions = ["hardLineBreak"]

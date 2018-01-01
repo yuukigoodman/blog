@@ -3,7 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yuukigoodman.github.io/blog/posts/my-first-post/</loc>
+    <lastmod>2018-01-01T23:19:27+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yuukigoodman.github.io/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuukigoodman.github.io/blog/posts/</loc>
+    <lastmod>2018-01-01T23:19:27+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14,6 +25,7 @@
   
   <url>
     <loc>https://yuukigoodman.github.io/blog/</loc>
+    <lastmod>2018-01-01T23:19:27+09:00</lastmod>
     <priority>0</priority>
   </url>
   
