@@ -7,8 +7,8 @@ This is my first blog hosted by GitHub using [Hugo](https://gohugo.io).
 
 I have made several goals to achieve 2018.
 
-1: TOEFL iBT 80/IELTS 6.0.
-2: TopCoder SRM Div.1.
-3: Contribute Github and StackOverflow every day.
+- TOEFL iBT 80/IELTS 6.0.
+- TopCoder SRM Div.1.
+- Contribute Github and StackOverflow every day.
 
 I will continue to output it even a bit.
