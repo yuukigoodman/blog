@@ -7,6 +7,8 @@ theme = "kiss"
 pygmentsCodeFences = true
 Paginate = 5
 canonifyurls = true
+googleAnalytics = "UA-57928258-3"
+enableRobotsTXT = true
 
 [params.info]
 enableSocial = false
