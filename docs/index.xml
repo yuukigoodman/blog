@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/yuukigoodman&#34;&gt;Yuki Tannai&lt;/a&gt; 2018</copyright>
-    <lastBuildDate>Tue, 02 Jan 2018 22:21:26 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2018 23:19:58 +0900</lastBuildDate>
     
 	<atom:link href="https://yuukigoodman.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ergodox Keymap Compatibility</title>
+      <link>https://yuukigoodman.github.io/blog/posts/2018-01-06-ergodox-keymap-compatibility/</link>
+      <pubDate>Sat, 06 Jan 2018 23:19:58 +0900</pubDate>
+      
+      <guid>https://yuukigoodman.github.io/blog/posts/2018-01-06-ergodox-keymap-compatibility/</guid>
+      <description>I have two keyboards: Ergodox EZ and Infinity Ergodox.
+These keyboards use same firmware, but require different build options.
+This is the methodology to share keymap.c file between two keyboards compiler option.
+Ergodox EZ Create keymap.c and firmware at official configurator http://configure.ergodox-ez.com/keyboard_layouts/new
+Write keymap.c to Ergodox EZ You can use teensy loader.
+Commit keymap.c to your keymap repository like this commit
+left hand Ergodox Infinity Fix differences  replace from #include &amp;quot;ergodox_ez.</description>
+    </item>
     
     <item>
       <title>2018 01 02</title>
